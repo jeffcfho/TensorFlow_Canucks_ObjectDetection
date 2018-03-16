@@ -1,0 +1,5 @@
+.ipynb_*
+frames_blue_all
+frames_white_all
+models
+*.gz
